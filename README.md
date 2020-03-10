@@ -27,7 +27,7 @@ Notes:
 	    * H (Hearts)
 	    * D (Diamonds)
 	    * C (Clubs)
-*The rules for classifying Poker cards are listed below:
+* The rules for classifying Poker cards are listed below:
 ![](https://github.com/Ceviche98/I2A2-First-Homework/blob/master/poker-hand-rankings.png )
 ### The Challenge
 1. The challenge consists in create a class that represents a Poker hand called "PokerHand" and create a method to compare it with another Poker hand. The class "PokerHand" must have a constructor that accepts a string containing 5 (five) cards. A space will used as a separator for each card. Each card consists in 2 (two) characters as previously described. Let's see an example:
