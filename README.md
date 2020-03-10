@@ -40,7 +40,7 @@ Notes:
 2. The functioning of the solution must be guaranteed through unit tests. 
 
 ### UNIT TEST CASES
-To run the test cases proposed, follow the instructions below:
+The test cases can be verified in the jupyter notebook "I2A2 - Test N°1.ipynb". If you want to run the test cases in your console, download the file "I2A2_Test.py" and  follow the instructions below:
 
 #### UNIT TEXT CASES FOR "BEST HAND"
 In the console paste the following line:
