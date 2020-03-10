@@ -38,3 +38,17 @@ Notes:
      The result must be one enumerated with 2 (two) possible values that will represent the following states: WIN or LOSS.
 
 2. The functioning of the solution must be guaranteed through unit tests. 
+
+### UNIT TEST CASES
+To run the test cases proposed, follow the instructions below:
+
+#### UNIT TEXT CASES FOR "BEST HAND"
+In the console paste the following line:
+```python
+python3.6 -m unittest -v I2A2_Test.TestPokerHand
+```
+#### UNIT TEXT CASES FOR POKER HAND COMPARISON
+In the console paste the following line:
+```python
+python3.6 -m unittest I2A2_Test.TestPokercomparison
+```
