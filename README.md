@@ -9,9 +9,9 @@ Notes:
 * A Poker hand is consists for 5 cards;
 * Each card has a string with 2 (two) characters.
      *The first character is the card value and it can have the values below, ranked from lowest to highest:
-          * 2
-          * 3
-          * 4
+        * 2
+         * 3
+       * 4
           * 5
           * 6
           * 7
